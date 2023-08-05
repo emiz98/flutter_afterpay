@@ -1,0 +1,2740 @@
+{
+  "data": [
+    {
+      "id": "60608",
+      "type": "stores",
+      "attributes": {
+        "name": "Boathouse",
+        "merchant_id": 100119549,
+        "permalink": null,
+        "slug": "boat-house-stores",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/60608/outbound?category_id=874&merchant_id=100119549&name=Boathouse&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/60608/outbound?category_id=874&merchant_id=100119549&name=Boathouse&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://boathousestores.com/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-12-10T02:58:50.707Z",
+        "updated_at": "2023-07-19T16:19:06.395Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMTQvMjIvNTEvMzIvOGQzNDdmYjgtMjBjZC00OTlhLWI2YjQtMjJmNGEyNjFjMTUzL0dpYW50IE1lbGJvdXJuZSAoMikgKDEpLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=38cadd4d52dae5e9",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDMvMjUvMTgvNDgvMTkvMzhmZGI0YmUtOTU3Yy00ZTA1LTg0YzAtOTZiMmMyMTJlMzA1L0JvYXRob3VzZUxvZ293aGl0ZSAoMSkucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=aa8793fb6ee00949",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDMvMjUvMTgvNDgvMTkvMzhmZGI0YmUtOTU3Yy00ZTA1LTg0YzAtOTZiMmMyMTJlMzA1L0JvYXRob3VzZUxvZ293aGl0ZSAoMSkucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=a488ba731acdbd7c",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDcvNTEvY2M1NzAxMmUtMTM5Zi00MDQ2LWE1YTMtMzEwZjNhMGZiYzgyL0JPQVRIT1VTRSBST1cgSEFNSUxUT04gSU5DLnBuZyJdXQ?sha=e1a6a6dff4a3dcc0",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/60608/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/boat-house-stores"
+      }
+    },
+    {
+      "id": "149528",
+      "type": "stores",
+      "attributes": {
+        "name": "UPPER",
+        "merchant_id": 100126321,
+        "permalink": null,
+        "slug": "upperbabies-com-en-CA",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/149528/outbound?category_id=874&merchant_id=100126321&name=UPPER&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/149528/outbound?category_id=874&merchant_id=100126321&name=UPPER&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://upperbags.com/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-10-15T19:42:54.673Z",
+        "updated_at": "2023-07-19T07:33:51.617Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Save up to 50% OFF + FREE Shipping",
+        "offer_url": "https://upperbags.com/collections/ultimate-diaper-bags?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 247927,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Up to 50% off",
+        "offer_starts_at": "2023-07-17T07:00:00.000Z",
+        "offer_ends_at": "2023-11-13T07:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMjAvMTQvMzIvMjQvODZjZTgzMGMtZDcwZS00NzYwLTkyZTEtMjNkYjg0Njc3OTg4L2I4N2ZkYjQwNmQ5ZGEzMDFlZGU2MTM2YTNhN2I1MjNmMWVhMGJhY2YxZWUzOTBiOWY3ZjljNjg1NGU2NjBiMmUuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=67372079cd1d3e67",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMjAvMTQvMzIvMjIvZTA3NTI2YzktOWZiOC00NDUyLThjNTYtYzdhZmNjYTkxMmQyL3VwcGVyLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=aecb5580b42b58f2",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMjAvMTQvMzIvMjIvZTA3NTI2YzktOWZiOC00NDUyLThjNTYtYzdhZmNjYTkxMmQyL3VwcGVyLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=8a265468b0b20a27",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNTUvMjQvZTViNjI4ZWMtMzFjNS00Yjk4LTk5MGUtNjUwYjE0MzdhZThlL1VQUEVSQkFCSUVTLnBuZyJdXQ?sha=3320e773174e33ac",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/149528/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/upperbabies-com-en-CA"
+      }
+    },
+    {
+      "id": "124059",
+      "type": "stores",
+      "attributes": {
+        "name": "CAT Footwear",
+        "merchant_id": 100156867,
+        "permalink": null,
+        "slug": "cat-footwear",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/124059/outbound?category_id=874&merchant_id=100156867&name=CAT+Footwear&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/124059/outbound?category_id=874&merchant_id=100156867&name=CAT+Footwear&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.catfootwear.com/CA/en_CA/home/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-01-11T21:04:57.316Z",
+        "updated_at": "2023-07-26T17:22:57.991Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Unleash Boldness! 30% OFF All Casual Shoes with Code SAVE30\r\n",
+        "offer_url": "https://www.catfootwear.com/CA/en_CA/lifestyle/?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248544,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "30% off",
+        "offer_starts_at": "2023-08-03T07:00:00.000Z",
+        "offer_ends_at": "2023-08-08T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjEvMDQvNTUvNjk3NzUxNzgtZjIyMi00N2I5LWJhMzMtZDkzNTE4ZTQ0M2ViL2hlcm8tc2xpZGVyLTItZC5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=c9b76b94da61dd7c",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjEvMDQvNTQvOGU4ZWI3OTAtYjk3Mi00Yjg2LThkMzktODg0OTUzN2Q0ZmEwLzY3MzA0ODYyXzI0NzYwMjQ5NTkyOTg2NTRfNTMxMzg4OTczMzY4Njg1MzYzMl9uLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=9fd0287d2bbe1040",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjEvMDQvNTQvOGU4ZWI3OTAtYjk3Mi00Yjg2LThkMzktODg0OTUzN2Q0ZmEwLzY3MzA0ODYyXzI0NzYwMjQ5NTkyOTg2NTRfNTMxMzg4OTczMzY4Njg1MzYzMl9uLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=70bf93ad83cc362f",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "CF",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/124059/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/cat-footwear"
+      }
+    },
+    {
+      "id": "83840",
+      "type": "stores",
+      "attributes": {
+        "name": "Cle de Peau Beaute",
+        "merchant_id": 100128550,
+        "permalink": null,
+        "slug": "cle-de-peau-beaute",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83840/outbound?category_id=874&merchant_id=100128550&name=Cle+de+Peau+Beaute&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83840/outbound?category_id=874&merchant_id=100128550&name=Cle+de+Peau+Beaute&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.cledepeaubeaute.ca/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-02-25T19:41:47.884Z",
+        "updated_at": "2023-08-04T22:31:04.049Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Enjoy 10% Off Your Purchase of $225+. Use Code: RADIANT10\r\n",
+        "offer_url": "https://www.cledepeaubeaute.ca/?utm_source=Afterpay&utm_medium=website&utm_campaign=EN_08042023_SUMMERRADIANCE",
+        "offer_id": 248649,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "10% off",
+        "offer_starts_at": "2023-08-04T07:00:00.000Z",
+        "offer_ends_at": "2023-08-08T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "RADIANT10",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMjUvMTkvNDEvNDYvNTRjMTQ2ZTItYTg0OS00YzgyLWI4ZTUtMGFhMTVlNmZlMzU4L2NsZV9kZV9wZWF1X3N0eWxpemVkLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=bcc877cf04436079",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDgvMTAvMjMvMTcvMDgvM2Y4YmQ2NmYtYzc2OC00NjM2LWI1OGQtMjMzMmU5ZWM4MjRmL0RFLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=1fffdc6113219a07",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDgvMTAvMjMvMTcvMDgvM2Y4YmQ2NmYtYzc2OC00NjM2LWI1OGQtMjMzMmU5ZWM4MjRmL0RFLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=e0cc86da1d38387a",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNTAvNTgvZmIxZjNhMzktZjEzYi00NmFlLWE4OGItZDQwY2IyZDQwODRiL0NMRSBERSBQRUFVIEJFQVVURSBDQU5BREEucG5nIl1d?sha=d25d719eca654eec",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/83840/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/cle-de-peau-beaute"
+      }
+    },
+    {
+      "id": "127894",
+      "type": "stores",
+      "attributes": {
+        "name": "Sperry",
+        "merchant_id": 100156860,
+        "permalink": null,
+        "slug": "sperry-41592",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/127894/outbound?category_id=874&merchant_id=100156860&name=Sperry&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/127894/outbound?category_id=874&merchant_id=100156860&name=Sperry&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.sperry.com/CA/en_CA/home/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-01-27T20:22:24.540Z",
+        "updated_at": "2023-07-26T17:26:30.567Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "SUMMER SAVINGS! Get 20% OFF Everything with code SUMMER20\r\n",
+        "offer_url": "https://www.sperry.com/CA/en_CA/home?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248546,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "20% off",
+        "offer_starts_at": "2023-08-03T07:01:00.000Z",
+        "offer_ends_at": "2023-08-08T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMjcvMjAvMjIvMjIvNGI2ZDU4MDktNzYyYS00ZDRhLTllNTgtMzFjMjlhZmZlNTkxL1dXV19TcGVycnlfQ0EuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=be9b2d63636dc56b",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMjcvMjAvMjIvMjEvZjFkZjFmZDQtOGE3ZS00NDI2LWI2M2QtMTNiOGQ5OWY0MzI2L1NwZXJyeV9XaGl0ZV9Mb2dvLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=37562b69b0f2e7e4",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMjcvMjAvMjIvMjEvZjFkZjFmZDQtOGE3ZS00NDI2LWI2M2QtMTNiOGQ5OWY0MzI2L1NwZXJyeV9XaGl0ZV9Mb2dvLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=6b963ec7b8e89a51",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Sp",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/127894/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/sperry-41592"
+      }
+    },
+    {
+      "id": "148907",
+      "type": "stores",
+      "attributes": {
+        "name": "Blackwell Shoes",
+        "merchant_id": 100119550,
+        "permalink": null,
+        "slug": "blackwell-shoes",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/148907/outbound?category_id=874&merchant_id=100119550&name=Blackwell+Shoes&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/148907/outbound?category_id=874&merchant_id=100119550&name=Blackwell+Shoes&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://blackwellshoes.com/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-10-04T14:18:46.356Z",
+        "updated_at": "2023-07-19T16:21:27.791Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Sale on Sale - Extra 50% OFF Clearance.\r\n",
+        "offer_url": "https://blackwellshoes.com/collections/clearance?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 247956,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "50% off",
+        "offer_starts_at": "2023-07-19T07:00:00.000Z",
+        "offer_ends_at": "2023-08-14T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMDYvMTUvMzAvMTkvZWJjOTNiYzItY2U2NS00Mjg0LWEzMWItMzk3YjllYmQxOGQyL2FkODdkYWUyNzdiNmMzNGNhMjViNTdkNWYxY2NlNDU0ZTg2ZmMzYmZjYWNkNjYyZjVjM2NlM2RkMDRhZGMzOGEuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=088441233d772e34",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMDYvMTUvMzAvMTcvNjIwNjdjMjUtNDE5MS00OTQyLWFiMGYtMTU1ZGRlNjQ1OWM3L2JsYWNrLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=f08c10a23f10122c",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMDYvMTUvMzAvMTcvNjIwNjdjMjUtNDE5MS00OTQyLWFiMGYtMTU1ZGRlNjQ1OWM3L2JsYWNrLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=c4b488bf4cab9e46",
+        "featured_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMDYvMTMvNDkvNTIvODJlZGJhMDgtOGI5Ny00NjQ1LTk4OGYtNTI3NTZmMDVmZWQ5L0FmdGVycGF5IEltYWdlLUJXLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCI1Nzl4MzAwIl1d?sha=1d6ec03fe13734db",
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDgvMjEvZmI5MjY2YmMtNGRmZC00MjY0LWFmMGItZDNjZDJiM2ZiYzgxL0JMQUNLV0VMTCBTSE9FUy5wbmciXV0?sha=8804b538b9e0b4cb",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/148907/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/blackwell-shoes"
+      }
+    },
+    {
+      "id": "83839",
+      "type": "stores",
+      "attributes": {
+        "name": "Shiseido",
+        "merchant_id": 100128547,
+        "permalink": null,
+        "slug": "shiseido-07776",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83839/outbound?category_id=874&merchant_id=100128547&name=Shiseido&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83839/outbound?category_id=874&merchant_id=100128547&name=Shiseido&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.shiseido.com/ca/en/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-02-25T19:40:20.198Z",
+        "updated_at": "2023-07-27T20:30:30.946Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Choose 4 travel-friendly deluxe samples with any $85+ purchase. Use code: CHOOSE4",
+        "offer_url": "https://www.shiseido.com/ca/en/?utm_source=Afterpay&utm_medium=website&utm_campaign=EN_08042023_SUMMERCHOOSE4",
+        "offer_id": 248648,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Gift with purchase",
+        "offer_starts_at": "2023-08-04T07:00:00.000Z",
+        "offer_ends_at": "2023-08-14T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMjUvMTkvNDAvMTgvZjU1ZTI0NjQtMjYyOC00NzMyLWEzM2UtNzYzM2FlNDdkOTljL3NoaXNlaWRvX3N0eWxpemVkLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=45625e13a6492713",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMjUvMTkvNDAvMTcvNzQzYTc3ZjQtZmI0Ni00ZDMyLWFhMzItYzI3OWU2MWZkZDg2L3NoaXNlaWRvX2xvZ28ucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=bfe5b9739d98384b",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMjUvMTkvNDAvMTcvNzQzYTc3ZjQtZmI0Ni00ZDMyLWFhMzItYzI3OWU2MWZkZDg2L3NoaXNlaWRvX2xvZ28ucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=69b3c99ed6e5006d",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDgvNDYvNzIwZjdkODMtYTEwZC00YzE4LWIyYTItNTlkODJiOGUxNGVkL1NISVNFSURPIENBTkFEQS5wbmciXV0?sha=5602edfdf47f9617",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/83839/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/shiseido-07776"
+      }
+    },
+    {
+      "id": "42128",
+      "type": "stores",
+      "attributes": {
+        "name": "Keds",
+        "merchant_id": 100156865,
+        "permalink": null,
+        "slug": "keds-58989",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42128/outbound?category_id=874&merchant_id=100156865&name=Keds&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42128/outbound?category_id=874&merchant_id=100156865&name=Keds&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.keds.com/CA/en_CA/home",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:30:18.808Z",
+        "updated_at": "2023-07-26T17:25:00.241Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Long Weekend Summer Sale! 25% OFF sitewide with code LONGWEEKEND\r\n",
+        "offer_url": "https://www.keds.com/CA/en_CA/home?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248545,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "25% off",
+        "offer_starts_at": "2023-08-01T07:00:00.000Z",
+        "offer_ends_at": "2023-08-08T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDIvMTAvMTIvMzQvNDMzMzAwNmItMjAzYy00YTYyLTllZWMtNTk4ZmJjNGFjMzBlL0tFRFNNQUlOSU1BR0UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=00d4bd904e901f74",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDIvMTAvMTIvMzMvN2Y3ZWI3YWYtMDYyMC00ZmRkLThmYjgtYzJjYjA0MzU3YzY0L0tFRFNMT0dPLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=d3694cc97b8edd48",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDIvMTAvMTIvMzMvN2Y3ZWI3YWYtMDYyMC00ZmRkLThmYjgtYzJjYjA0MzU3YzY0L0tFRFNMT0dPLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=01c9aa909778d388",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Ke",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/42128/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/keds-58989"
+      }
+    },
+    {
+      "id": "151316",
+      "type": "stores",
+      "attributes": {
+        "name": "Mason & Madison Co",
+        "merchant_id": 100150114,
+        "permalink": null,
+        "slug": "mason-madison-co-85244",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/151316/outbound?category_id=874&merchant_id=100150114&name=Mason+%26+Madison+Co&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/151316/outbound?category_id=874&merchant_id=100150114&name=Mason+%26+Madison+Co&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://masonmadison.com/collections/trending/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-11-08T17:37:38.226Z",
+        "updated_at": "2023-07-19T19:19:47.767Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Save up to 70% OFF + FREE Diamond Necklace GIFT + FREE Shipping\r\n",
+        "offer_url": "https://masonmadison.com/collections/trending?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 247952,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Up to 70% off",
+        "offer_starts_at": "2023-07-18T07:00:00.000Z",
+        "offer_ends_at": "2023-11-13T07:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTEvMDgvMTcvMzcvMzYvODNlNWE1NzItYzkwMi00M2EyLWI4MjItMzZmNjM3NjViM2NkL2ltYWdlICgzNCkuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=3083321b8686bdc4",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTEvMDgvMTcvMzcvMzUvMzJlODMxYjQtMTExMS00YzQ4LWExZTYtYWRjMGYyNDI0ZTZkL0dyb3VwIDEwNDU4MiAoMSkucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=50657cc222e7bdd0",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTEvMDgvMTcvMzcvMzUvMzJlODMxYjQtMTExMS00YzQ4LWExZTYtYWRjMGYyNDI0ZTZkL0dyb3VwIDEwNDU4MiAoMSkucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=c53ece8e887738ae",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNTAvMzUvMmNiYzQzOGYtMTRkMy00ZWVlLTg3ZWMtN2VlMTA0MmFlYzc4L01BU09OIF8gTUFESVNPTiBDTy4ucG5nIl1d?sha=ecd80c8611ddb83b",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/151316/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/mason-madison-co-85244"
+      }
+    },
+    {
+      "id": "124048",
+      "type": "stores",
+      "attributes": {
+        "name": "Merrell",
+        "merchant_id": 100156864,
+        "permalink": null,
+        "slug": "merrell-09886",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/124048/outbound?category_id=874&merchant_id=100156864&name=Merrell&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/124048/outbound?category_id=874&merchant_id=100156864&name=Merrell&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.merrell.com/CA/en_CA/home/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-01-11T20:39:56.010Z",
+        "updated_at": "2023-08-03T20:13:11.149Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Save an extra 20% off sale styles with code SAVE20",
+        "offer_url": "https://www.merrell.com/CA/en_CA/clearance-sale/?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 249337,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "20% off",
+        "offer_starts_at": "2023-08-03T07:00:00.000Z",
+        "offer_ends_at": "2023-08-08T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjAvMzkvNTQvODIzOWE0ZjQtODQxOC00ODRkLTk4Y2ItNjg5NWUwNDBjZTMzLzI1MDM5NjUyOF80NDM4MDg1OTI2MjQ2Njk4XzQzNjQ3MDA3MzQ1MDE5MTIzMDNfbi5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=6cb220d48b18801a",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjAvMzkvNTMvM2I0MGU1MmMtM2IyOS00OWZiLWE2ZWItZjBiMDE2ZGE2YThhLzI2MzA4OTAxOV80NTE3MzE1NjY4MzIzNzIzXzIyNTcxMjQ3MTEzNDE1NDkyMzRfbi5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=f1fea77c087bd90c",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMTEvMjAvMzkvNTMvM2I0MGU1MmMtM2IyOS00OWZiLWE2ZWItZjBiMDE2ZGE2YThhLzI2MzA4OTAxOV80NTE3MzE1NjY4MzIzNzIzXzIyNTcxMjQ3MTEzNDE1NDkyMzRfbi5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=87e11f523fcc3392",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDkvMDMvMWRhYjRiODQtZTc0Ny00ZjU2LWEyZDItMGUwNjk0YWQ5OWI0L01lcnJlbGwgKDEpLnBuZyJdXQ?sha=e3b101387a97a7ef",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/124048/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/merrell-09886"
+      }
+    },
+    {
+      "id": "148154",
+      "type": "stores",
+      "attributes": {
+        "name": "Nick's Bay Company",
+        "merchant_id": 103781941,
+        "permalink": null,
+        "slug": "nick-s-bay-company",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/148154/outbound?category_id=874&merchant_id=103781941&name=Nick%27s+Bay+Company&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/148154/outbound?category_id=874&merchant_id=103781941&name=Nick%27s+Bay+Company&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://www.nicksbay.com/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-09-20T20:41:09.834Z",
+        "updated_at": "2023-08-03T22:30:12.146Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Up to 75% off + free shipping on orders over $99\r\n",
+        "offer_url": "https://nicksbay.com/collections/all?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248896,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Up to 75% off",
+        "offer_starts_at": "2023-07-30T07:00:00.000Z",
+        "offer_ends_at": "2023-10-01T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDcvMDkvMTgvNTAvMjEvZWE1MDg5ODItOTBmYy00YmQ0LTk2YWYtYzRiY2I1NDQxZTgyL2duZi5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=679145e80b812211",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDkvMjYvMDYvMjIvMDAvMTNiMTU1ZDgtODUyOS00YmI3LTgyZTYtOTQ3MGJiNGEyMjMzL24ucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=7f27360b965caec8",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDkvMjYvMDYvMjIvMDAvMTNiMTU1ZDgtODUyOS00YmI3LTgyZTYtOTQ3MGJiNGEyMjMzL24ucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=6bba33eff91c1817",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNTMvNDEvMzE2MTUyYzUtNGJiMC00YTFlLWJkYWEtMzliNjdjMmIwYWNjL05JQ0tfUyBCQVkgQ09NUEFOWS5wbmciXV0?sha=581f3bce0c36c13d",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/148154/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/nick-s-bay-company"
+      }
+    },
+    {
+      "id": "166246",
+      "type": "stores",
+      "attributes": {
+        "name": "Papuk",
+        "merchant_id": 106762322,
+        "permalink": null,
+        "slug": "papuk",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/166246/outbound?category_id=874&merchant_id=106762322&name=Papuk&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/166246/outbound?category_id=874&merchant_id=106762322&name=Papuk&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://www.papuk.co/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2023-07-28T21:21:40.762Z",
+        "updated_at": "2023-07-28T23:42:47.154Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Free shipping on orders over $100 CAD within Canada.",
+        "offer_url": "https://papuk.co/?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248804,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Free shipping",
+        "offer_starts_at": "2023-07-28T07:00:00.000Z",
+        "offer_ends_at": "2023-11-24T07:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDcvMjgvMjEvMjgvNDcvZGE5MzhkZmItZGM4NS00YmI0LTkxMWYtNTRmNWE2NzMyZGE0L1BhcHVrLUNhdC1UcmVlLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=be7aaefc05958537",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDcvMjgvMjMvMjQvMjkvNjRhOTE5ODAtYjBmOC00OWM0LWJkNTEtZWUwNTBhN2ZjZWI4L05ldyBQcm9qZWN0ICg1OCkucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=49bf8cb4da79fa7e",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDcvMjgvMjMvMjQvMjkvNjRhOTE5ODAtYjBmOC00OWM0LWJkNTEtZWUwNTBhN2ZjZWI4L05ldyBQcm9qZWN0ICg1OCkucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=3b2288d083a10eea",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Pa",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/166246/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/papuk"
+      }
+    },
+    {
+      "id": "86965",
+      "type": "stores",
+      "attributes": {
+        "name": "SAXX Underwear",
+        "merchant_id": 100135075,
+        "permalink": null,
+        "slug": "saxx",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/86965/outbound?category_id=874&merchant_id=100135075&name=SAXX+Underwear&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/86965/outbound?category_id=874&merchant_id=100135075&name=SAXX+Underwear&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.saxxunderwear.ca/collections/sale?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-04-16T02:36:13.232Z",
+        "updated_at": "2023-07-21T21:04:08.559Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Summer Sale: now up to 40% off! Now save even more on styles like apparel & socks.\r\n",
+        "offer_url": "https://www.saxxunderwear.ca/collections/sale?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 247969,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "Up to 40% off",
+        "offer_starts_at": "2023-07-20T07:00:00.000Z",
+        "offer_ends_at": "2023-11-01T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDcvMjEvMjEvMDQvMDcvMDBiNzRlNjctNjQ1MS00ZjEyLTk0MzEtNDg5N2E0NjJlOGIyL05ldyBQcm9qZWN0ICg4NCkuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=2487431c80c15af8",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDQvMTYvMDIvMzYvMTAvZThkMmMzYmEtNmU3ZS00YWUyLWE5YjktMGUxNjZjODE2OGU1L3NheHgtbG9nb181MDB4NTAwICgyKS5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=2d10712d104ad9e0",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDQvMTYvMDIvMzYvMTAvZThkMmMzYmEtNmU3ZS00YWUyLWE5YjktMGUxNjZjODE2OGU1L3NheHgtbG9nb181MDB4NTAwICgyKS5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=308cdae59f25230b",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDgvMjAvMGIwMTJmMWYtYThlMy00MTVlLWI0Y2EtMzVmNzQ1NmRlNjBkL1NBWFggVU5ERVJXRUFSIENPLi5wbmciXV0?sha=084ce778d4ecfa69",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/86965/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/saxx"
+      }
+    },
+    {
+      "id": "83274",
+      "type": "stores",
+      "attributes": {
+        "name": "Isiro Canada",
+        "merchant_id": 100123060,
+        "permalink": null,
+        "slug": "isiro-ca",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83274/outbound?category_id=874&merchant_id=100123060&name=Isiro+Canada&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/83274/outbound?category_id=874&merchant_id=100123060&name=Isiro+Canada&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://isiro.ca/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-02-18T22:38:10.217Z",
+        "updated_at": "2023-07-21T23:34:22.684Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "PROMO20",
+        "offer_url": "https://isiro.ca/pages/shop-now?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 248150,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "20% off",
+        "offer_starts_at": "2023-07-21T07:00:00.000Z",
+        "offer_ends_at": "2023-10-01T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMTgvMjIvMzgvMDgvNjY0ZmYyNjEtMzU1Zi00ZmM4LWEwZTEtMGYyZGFlYzVhZjdjL3Byb2ZpbGUtcGljXzgxMGUzNjljLTYuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=7864f40f70e20d25",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMTgvMjIvMzgvMDcvYjFhZDc2MjQtOTMwNy00OGUyLWJjMTAtYWU4ZjkyYWMxMGM0L2Nyb3BwZWQtU2MtOGU3NC0yXzc1MDQ1MTNlLTIucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=5a5b4bfdf302e0dd",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDIvMTgvMjIvMzgvMDcvYjFhZDc2MjQtOTMwNy00OGUyLWJjMTAtYWU4ZjkyYWMxMGM0L2Nyb3BwZWQtU2MtOGU3NC0yXzc1MDQ1MTNlLTIucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=506a7f7f0dc9bbbc",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNTIvNDUvMDk1N2RlYjgtMmMyYy00ZTY0LTg0NWMtMzFiNTNmYjY3NzJmL0lTSVJPLkNBLnBuZyJdXQ?sha=20985ff542d8501e",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/83274/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/isiro-ca"
+      }
+    },
+    {
+      "id": "119227",
+      "type": "stores",
+      "attributes": {
+        "name": "Saucony",
+        "merchant_id": 100156862,
+        "permalink": null,
+        "slug": "saucony-11802",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/119227/outbound?category_id=874&merchant_id=100156862&name=Saucony&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/119227/outbound?category_id=874&merchant_id=100156862&name=Saucony&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.saucony.ca/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-12-21T20:05:44.822Z",
+        "updated_at": "2023-08-03T22:30:08.103Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": "Save an EXTRA 20% off sale styles with code SAVE20.\r\n",
+        "offer_url": "https://www.saucony.com/CA/en_CA/saucony-sale/?utm_source=afterpay&utm_medium=referral&utm_campaign=promotion",
+        "offer_id": 249336,
+        "offer_terms": "*Discounts are directly offered by retailers and subject to their terms and conditions. Afterpay may earn a commission.",
+        "offer_cta_title": "SHOP NOW",
+        "offer_teaser": "20% off",
+        "offer_starts_at": "2023-08-03T07:00:00.000Z",
+        "offer_ends_at": "2023-08-09T06:59:00.000Z",
+        "offer_in_store": false,
+        "offer_online": true,
+        "offer_active": true,
+        "offer_sponsored": false,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": "",
+        "offer_min_purchase_threshold": 0,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMTIvMjEvMjAvMDUvNDMvOTE3NzRkYmUtYmY1My00ZjNlLWFiY2UtNzk3NTI3ZmVkMDFiL3d3d19zYXVjb255X2NhLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=7f6345e5c497755c",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMTIvMjEvMjAvMDUvNDIvYjc0Y2NmNTctNGExOS00NGM5LWJhZDItNTA2MDZhZjhkZDc4L3NhdWNvbnlfd2hpdGVfbG9nby5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=6a678b9eab64c429",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMTIvMjEvMjAvMDUvNDIvYjc0Y2NmNTctNGExOS00NGM5LWJhZDItNTA2MDZhZjhkZDc4L3NhdWNvbnlfd2hpdGVfbG9nby5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=32ff5f5e75fa8b66",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Sa",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/119227/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/saucony-11802"
+      }
+    },
+    {
+      "id": "44862",
+      "type": "stores",
+      "attributes": {
+        "name": "Fast Gym Equipment",
+        "merchant_id": 96738,
+        "permalink": null,
+        "slug": "fast-gym-equipment-11635",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44862/outbound?category_id=874&merchant_id=96738&name=Fast+Gym+Equipment&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44862/outbound?category_id=874&merchant_id=96738&name=Fast+Gym+Equipment&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.fastgymequipment.com/password",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:54:18.998Z",
+        "updated_at": "2020-10-29T17:54:18.998Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMzEvMDcvMDYvMjcvYmZhNzFjZGMtNDRjNi00ODlhLWFkZmItMTgzZmVlMTkwZWZjL3Byb2ZpbGVfcGljXzNhYmUxY2ZlLWYuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=6c2b18a241ae551c",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMzEvMDcvMDYvMjYvZGNjNjc4OTYtZTc1My00ZDI5LWFmZDAtYWRiNGNiNDE3N2E1L0ZBU1QgR1lNIC1fM2ZlYy1lXzgxOWJlYmZjLTQucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=64c2ab26233f0723",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMzEvMDcvMDYvMjYvZGNjNjc4OTYtZTc1My00ZDI5LWFmZDAtYWRiNGNiNDE3N2E1L0ZBU1QgR1lNIC1fM2ZlYy1lXzgxOWJlYmZjLTQucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=750eaac63cfdeff4",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "FG",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/44862/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/fast-gym-equipment-11635"
+      }
+    },
+    {
+      "id": "43072",
+      "type": "stores",
+      "attributes": {
+        "name": "11:11 Lab",
+        "merchant_id": 113779,
+        "permalink": null,
+        "slug": "11-11-lab-31666",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43072/outbound?category_id=874&merchant_id=113779&name=11%3A11+Lab&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43072/outbound?category_id=874&merchant_id=113779&name=11%3A11+Lab&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://www.elevenelevenlab.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:50:16.223Z",
+        "updated_at": "2020-10-29T17:50:16.223Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMTkvMDAvMjUvMzUvNjdmMTY3NDItZmNjOS00YTdiLThkMjAtYzc4ZTE4YTJiZjFhLzEyMDc5OTU1N18xNzQ2NDg3OTA4NzY3NTdfNTkyMjA0NTA3MTE3MTQ2MDYxNl9vLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=62bffea24e4d682c",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMTkvMDAvMjUvMzQvZGRmNGZhNzItZDE4YS00MDg0LTg5MjYtYWFhNDhmYTRjZWNkLzExLjExIExhYiBsb2dvLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=fa053813250d9f7c",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMTkvMDAvMjUvMzQvZGRmNGZhNzItZDE4YS00MDg0LTg5MjYtYWFhNDhmYTRjZWNkLzExLjExIExhYiBsb2dvLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=55585f370324d7f0",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "La",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43072/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/11-11-lab-31666"
+      }
+    },
+    {
+      "id": "43271",
+      "type": "stores",
+      "attributes": {
+        "name": "Ellsworth Boutique",
+        "merchant_id": 111114,
+        "permalink": null,
+        "slug": "ellsworth-boutique-69878",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43271/outbound?category_id=874&merchant_id=111114&name=Ellsworth+Boutique&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43271/outbound?category_id=874&merchant_id=111114&name=Ellsworth+Boutique&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://ellsworth-boutique.myshopify.com/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:50:47.667Z",
+        "updated_at": "2022-10-11T15:08:43.636Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMTAvMTEvMTUvMDgvNDEvM2Q0YmViNTMtYmRmNi00YWNhLWFiMzYtZTEwNWZhMTU2YTIwL2ltYWdlXzIwMjJfMTBfMTFUMTVfMDZfNDVfNjAzWigxKS5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=06a0a2f8c7da2aeb",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMjEvMjMvMDgvMjAvNzk3ODY3NDQtZjc2YS00ZmIwLTk3M2MtY2ExNDQwYmZiNDA4L3Byb2ZpbGUtcGljXzQ3YzBhOGYyLTYucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=5fb79981c1012758",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMjEvMjMvMDgvMjAvNzk3ODY3NDQtZjc2YS00ZmIwLTk3M2MtY2ExNDQwYmZiNDA4L3Byb2ZpbGUtcGljXzQ3YzBhOGYyLTYucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=752f0bf8ebe44b7f",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "EB",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43271/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/ellsworth-boutique-69878"
+      }
+    },
+    {
+      "id": "45370",
+      "type": "stores",
+      "attributes": {
+        "name": "KARMIC Cold Pressed Juice",
+        "merchant_id": 92609,
+        "permalink": null,
+        "slug": "karmic-cold-pressed-juice-10113",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45370/outbound?category_id=874&merchant_id=92609&name=KARMIC+Cold+Pressed+Juice&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45370/outbound?category_id=874&merchant_id=92609&name=KARMIC+Cold+Pressed+Juice&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://karmiccoldpressedjuice.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:55:14.111Z",
+        "updated_at": "2023-01-03T20:33:14.715Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDEvMDMvMjAvMzMvMTIvNjRmNTcwYzQtMjQ2OS00M2IxLTkwNDktNjc2ZDIwOTdjMmEwL2JvdHRybC5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=8d568af609d36125",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDIvMjAvMjMvMzcvMjkvZjAyMzMwMjMtNDU1OS00ZTU1LThhNzAtZjkzZjE0YzA2ZTYyL2xvZ29rYXJtLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=24be6555f06622ea",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDIvMjAvMjMvMzcvMjkvZjAyMzMwMjMtNDU1OS00ZTU1LThhNzAtZjkzZjE0YzA2ZTYyL2xvZ29rYXJtLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=370db185b7735fd4",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "KC",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/45370/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/karmic-cold-pressed-juice-10113"
+      }
+    },
+    {
+      "id": "43002",
+      "type": "stores",
+      "attributes": {
+        "name": "Beyond Nine",
+        "merchant_id": 400124178,
+        "permalink": null,
+        "slug": "beyond-nine-19243",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43002/outbound?category_id=874&merchant_id=400124178&name=Beyond+Nine&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43002/outbound?category_id=874&merchant_id=400124178&name=Beyond+Nine&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://beyondnine.co.uk?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:32:14.896Z",
+        "updated_at": "2020-10-29T16:32:14.896Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTEvMDcvMTUvMTkvMDYvZjJjYzk4MmYtODhlYy00ZTZmLTkxZjItNDMxNDAxMGJmZGI5L0JleW9uZE5pbmVNYWluSW1hZ2UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=88f1a29b47df8d1f",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTEvMDcvMTUvMTkvMDUvNzJjMmRkMjMtZDdhNS00MTJkLWI0M2QtMmU0MTUwYWUxZGM2L0JleW9uZE5pbmVMb2dvLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=72d818e9cab109b2",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTEvMDcvMTUvMTkvMDUvNzJjMmRkMjMtZDdhNS00MTJkLWI0M2QtMmU0MTUwYWUxZGM2L0JleW9uZE5pbmVMb2dvLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=fa0947f953d8d8f8",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "BN",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": null,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43002/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/beyond-nine-19243"
+      }
+    },
+    {
+      "id": "42681",
+      "type": "stores",
+      "attributes": {
+        "name": "Heist of London",
+        "merchant_id": 400125491,
+        "permalink": null,
+        "slug": "heist-of-london-75066",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42681/outbound?category_id=874&merchant_id=400125491&name=Heist+of+London&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42681/outbound?category_id=874&merchant_id=400125491&name=Heist+of+London&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://heistof.london/?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:31:29.538Z",
+        "updated_at": "2020-10-29T16:31:29.538Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMjkvMTAvMTIvNTQvMjA2MDUxMmQtN2ViYy00OTEyLWIzNDktNzgxNDBjMDcyZGUzL0hFSVNUT0ZMT05ET05NQUlOSU1BR0UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=5e89f61d3d1e00d3",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMjkvMTAvMTIvNTMvYzJhMzgzZTgtYWUzMS00ZDE1LWFlNzAtZGI5OTg2MzI3OThjL0hFSVNUT0ZMT05ET05MT0dPLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=b27843c2c0c47e33",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMjkvMTAvMTIvNTMvYzJhMzgzZTgtYWUzMS00ZDE1LWFlNzAtZGI5OTg2MzI3OThjL0hFSVNUT0ZMT05ET05MT0dPLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=41c352be7cd29bba",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Ho",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/42681/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/heist-of-london-75066"
+      }
+    },
+    {
+      "id": "42074",
+      "type": "stores",
+      "attributes": {
+        "name": "Elevatione",
+        "merchant_id": 400124584,
+        "permalink": null,
+        "slug": "elevatione-53667",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42074/outbound?category_id=874&merchant_id=400124584&name=Elevatione&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42074/outbound?category_id=874&merchant_id=400124584&name=Elevatione&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://elevatione.co.uk/?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:30:11.922Z",
+        "updated_at": "2020-10-29T16:30:11.922Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDMvMjAvMTQvMTIvNDIvYWViNmY3ZGMtMzIwNS00M2RiLTg5YzMtNTg3MDU3NWQ4NTQwL0VMRVZBVElPTkVUSU1FU1RPUFNNQUlOSU1BR0UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=efe603b65536bd04",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDMvMjAvMTQvMTIvNDEvODgxYjFiZWEtMGMxMi00YjE1LTliZWUtYjUzODY3MTI1MzNkL0VMRVZBVElPTkVUSU1FU1RPUFNMT0dPLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=aa143cbe75b52115",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDMvMjAvMTQvMTIvNDEvODgxYjFiZWEtMGMxMi00YjE1LTliZWUtYjUzODY3MTI1MzNkL0VMRVZBVElPTkVUSU1FU1RPUFNMT0dPLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=7386ffad5cc7d78f",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "El",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/42074/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/elevatione-53667"
+      }
+    },
+    {
+      "id": "43455",
+      "type": "stores",
+      "attributes": {
+        "name": "Santorini Xo",
+        "merchant_id": 109229,
+        "permalink": null,
+        "slug": "santorini-xo-06789",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43455/outbound?category_id=874&merchant_id=109229&name=Santorini+Xo&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43455/outbound?category_id=874&merchant_id=109229&name=Santorini+Xo&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://www.santorinixo.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:51:13.454Z",
+        "updated_at": "2020-10-29T17:51:13.454Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTQvMDUvMDYvMDcvNTNkMmUwNjUtOGQ4NC00YjZkLWJjMGEtNjU5NmZkMmM2ZDA0L0FmdGVycGF5IE1haW4gSW1hZ2UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=f1c6ece3160ae365",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTQvMDUvMDYvMDUvYTkwNjQ2MjItMThhYi00NjExLTljMjgtMzljMDdlOGE5MTJiL0xvZ28gQWZ0ZXJwYXkgKDEpLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=9b8ce7ae4d3cd6cc",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTQvMDUvMDYvMDUvYTkwNjQ2MjItMThhYi00NjExLTljMjgtMzljMDdlOGE5MTJiL0xvZ28gQWZ0ZXJwYXkgKDEpLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=a655b598084541a0",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "SX",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43455/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/santorini-xo-06789"
+      }
+    },
+    {
+      "id": "45847",
+      "type": "stores",
+      "attributes": {
+        "name": "Remi swim",
+        "merchant_id": 88950,
+        "permalink": null,
+        "slug": "remi-swim-43375",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45847/outbound?category_id=874&merchant_id=88950&name=Remi+swim&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45847/outbound?category_id=874&merchant_id=88950&name=Remi+swim&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.remiswim.com",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:56:12.073Z",
+        "updated_at": "2020-10-29T17:56:12.073Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMDYvMjIvMjEvMjUvNDBkZGM4NGEtYTZhZC00ZGM4LTkxOWEtY2ZhNDkyY2YyNWYzLzIwMjIzNUY3LTNENUItNEQxNC04REExLTdDQTA1NkUyMDFCRS5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=3b453e7220855277",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMDYvMjIvMjEvMjQvYmU0Y2YzYTktMmRkYS00ZDQ0LThmMjktOGRmODE1MGY1NWZiLzQwMGRwaUxvZ28ucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=eab373259d369f4e",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMDYvMjIvMjEvMjQvYmU0Y2YzYTktMmRkYS00ZDQ0LThmMjktOGRmODE1MGY1NWZiLzQwMGRwaUxvZ28ucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=ead003c80128a831",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Rs",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": null,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/45847/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/remi-swim-43375"
+      }
+    },
+    {
+      "id": "44041",
+      "type": "stores",
+      "attributes": {
+        "name": "Must Have Beauty Australia",
+        "merchant_id": 104144,
+        "permalink": null,
+        "slug": "must-have-beauty-australia-78511",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44041/outbound?category_id=874&merchant_id=104144&name=Must+Have+Beauty+Australia&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44041/outbound?category_id=874&merchant_id=104144&name=Must+Have+Beauty+Australia&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://musthavebeautyau.com/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:52:42.551Z",
+        "updated_at": "2020-10-29T17:52:42.551Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMDYvMDIvNTEvNDEvYzZhMTBjYjQtNGRlOS00MDIxLTkyMGMtYjMxMjRiYTNkM2Q5L3Jvc2Vnb2xkLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=bd08cf5ba3866c36",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMDYvMDIvNTEvNDAvNzA0OTVlOWQtM2I1Mi00ZDlmLTg3ZGEtNDc3OWQ3NDkxM2E5L2xvZ29taGIucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=f0e8df6c1dd0da5a",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDcvMDYvMDIvNTEvNDAvNzA0OTVlOWQtM2I1Mi00ZDlmLTg3ZGEtNDc3OWQ3NDkxM2E5L2xvZ29taGIucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=e1c71957858520c4",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "MH",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/44041/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/must-have-beauty-australia-78511"
+      }
+    },
+    {
+      "id": "42362",
+      "type": "stores",
+      "attributes": {
+        "name": "LATE VISUALS",
+        "merchant_id": 400126409,
+        "permalink": null,
+        "slug": "late-visuals-09406",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42362/outbound?category_id=874&merchant_id=400126409&name=LATE+VISUALS&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42362/outbound?category_id=874&merchant_id=400126409&name=LATE+VISUALS&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://latevisuals.com/?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:30:47.140Z",
+        "updated_at": "2020-10-29T16:30:47.140Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDkvMTMvMDgvNDcvZGVjZTJlMTAtYzI5My00MTg2LWEzNWQtZjQzMmY5Njg2YzkwL0xBVEVWSVNVQUxTTUFJTklNQUdFLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=37cd9845d40e914f",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDkvMTMvMDgvNDYvY2Q4YWE1MjYtNzI4Yi00ZmQ3LWI1MDktMjBjOWEyNDAwNTc3L0xBVEVWSVNVQUxTTE9HTy5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=e47de9ecd2bc4999",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMTAvMDkvMTMvMDgvNDYvY2Q4YWE1MjYtNzI4Yi00ZmQ3LWI1MDktMjBjOWEyNDAwNTc3L0xBVEVWSVNVQUxTTE9HTy5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=07c3aee309a720ca",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "LV",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/42362/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/late-visuals-09406"
+      }
+    },
+    {
+      "id": "84797",
+      "type": "stores",
+      "attributes": {
+        "name": "Koyye",
+        "merchant_id": 100121687,
+        "permalink": null,
+        "slug": "koyye-64439",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/84797/outbound?category_id=874&merchant_id=100121687&name=Koyye&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/84797/outbound?category_id=874&merchant_id=100121687&name=Koyye&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://m.koyye.com/?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2021-03-10T01:08:34.005Z",
+        "updated_at": "2022-08-04T19:58:34.359Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDMvMTAvMDEvMDgvMzIvMjNiZDU1MWEtMjM2ZS00NDY4LWE4YWItZGFmNzU4ZGMzNDEwL-WVhuWTgeWbvi5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=8cce3757065c37be",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDMvMTAvMDEvMDgvMzEvZWY1MzU4ZTMtZTk2NS00MTQ0LWJiODAtN2E1NTc5YWYzNWY3L2xvZ28ucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=f7ac633c97d3a841",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjEvMDMvMTAvMDEvMDgvMzEvZWY1MzU4ZTMtZTk2NS00MTQ0LWJiODAtN2E1NTc5YWYzNWY3L2xvZ28ucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=45c4973785605121",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Ko",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/84797/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/koyye-64439"
+      }
+    },
+    {
+      "id": "43053",
+      "type": "stores",
+      "attributes": {
+        "name": "Nellie Quats",
+        "merchant_id": 400123852,
+        "permalink": null,
+        "slug": "nellie-quats-94613",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43053/outbound?category_id=874&merchant_id=400123852&name=Nellie+Quats&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43053/outbound?category_id=874&merchant_id=400123852&name=Nellie+Quats&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.nelliequats.com/?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:32:22.006Z",
+        "updated_at": "2020-10-29T16:32:22.006Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTIvMDQvMTcvNDYvMDUvNDg1MmY1ZjctOTQ1NS00MTE0LTk3NTktOTczZWUyMjcyMmUzL05lbGxpZVF1YXRzTWFpbkltYWdlLmpwZyJdLFsicCIsInN0b3JlX3RpbGUiLCIyNTB4MjUwIl1d?sha=b3bf9f6c1e6847b9",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTIvMDQvMTcvNDYvMDQvOTYyOGE5MjEtYmVmMi00NDM0LThkMmUtNmNlZWNkMDczYzA5L05lbGxpZVF1YXRzTG9nby5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=202084925a29933f",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMTkvMTIvMDQvMTcvNDYvMDQvOTYyOGE5MjEtYmVmMi00NDM0LThkMmUtNmNlZWNkMDczYzA5L05lbGxpZVF1YXRzTG9nby5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=ebaaa6e5fce0002b",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "NQ",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": null,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43053/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/nellie-quats-94613"
+      }
+    },
+    {
+      "id": "123111",
+      "type": "stores",
+      "attributes": {
+        "name": "Swartz Fine Fashions",
+        "merchant_id": 100156770,
+        "permalink": null,
+        "slug": "swartz-fine-fashions",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/123111/outbound?category_id=874&merchant_id=100156770&name=Swartz+Fine+Fashions&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/123111/outbound?category_id=874&merchant_id=100156770&name=Swartz+Fine+Fashions&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://fadedsoul.com//?utm_source=afterpay&utm_medium=referral&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2022-01-06T23:15:37.514Z",
+        "updated_at": "2023-06-05T15:49:34.748Z",
+        "last_outbound_count": null,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMDYvMjMvMTUvMzYvNmFlOGQ5NDAtMDBlMi00OWZiLWI1YWYtN2YwODVhOWVkZDJkL1NXQVJUWklNRy5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=fd39718a729cda1b",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMDYvMjMvMTUvMzQvNzcyMzhhMTMtMGI3Yy00ZDhiLWE0YTQtMThmZDMxOTM5NWU0L1NXQVJUWkxPR08ucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=b53e7d8adc65d0c0",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjIvMDEvMDYvMjMvMTUvMzQvNzcyMzhhMTMtMGI3Yy00ZDhiLWE0YTQtMThmZDMxOTM5NWU0L1NXQVJUWkxPR08ucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=933e1868a37e8483",
+        "featured_image_url": null,
+        "avatar_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjMvMDYvMDUvMTUvNDkvMzMvMDczNThlM2ItZDRkMC00NDI1LTkyNjYtYTU1MWI2YWM4MjgyL1NXQVJUWiBGSU5FIEZBU0hJT05TLnBuZyJdXQ?sha=f9a4885cdc1a3212",
+        "store_short_name": null,
+        "background_color": null,
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/123111/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/swartz-fine-fashions"
+      }
+    },
+    {
+      "id": "45292",
+      "type": "stores",
+      "attributes": {
+        "name": "Active Dreamer Boutique",
+        "merchant_id": 93240,
+        "permalink": null,
+        "slug": "active-dreamer-boutique-92946",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45292/outbound?category_id=874&merchant_id=93240&name=Active+Dreamer+Boutique&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45292/outbound?category_id=874&merchant_id=93240&name=Active+Dreamer+Boutique&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://activedreamerboutique.com/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:55:02.851Z",
+        "updated_at": "2020-10-29T17:55:02.851Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDUvMTgvMDAvNTQvMDgvNWIxMGRiOGYtZDJlZi00YjYyLWFmNzItM2NjMDZlYWE3ZjhiL3Byb2ZpbGVfcGljXzU5YTM0MzU2LWYuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=05d318eb19ae805c",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDUvMTgvMDAvNTQvMDcvNzllM2NkYTgtYjI0NC00ZGQ1LWJhODItODJhMWUyODg0OTJhL0Ffd2hpdGVfZGE3ZmQ5MjEtYl8zNGYwMDUxMS1lLnBuZyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplICcyNTB4MjUwJyAtZ3Jhdml0eSBDZW50ZXIgLWRlcHRoIDE2IC1zdHJpcCArcmVwYWdlIl1d?sha=4a253bb20adafba2",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDUvMTgvMDAvNTQvMDcvNzllM2NkYTgtYjI0NC00ZGQ1LWJhODItODJhMWUyODg0OTJhL0Ffd2hpdGVfZGE3ZmQ5MjEtYl8zNGYwMDUxMS1lLnBuZyJdLFsicCIsIm5lZ2F0ZV9sb2dvIiwiMjUweDI1MCJdXQ?sha=2187a4c8e6e6a2f6",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "AD",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/45292/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/active-dreamer-boutique-92946"
+      }
+    },
+    {
+      "id": "45967",
+      "type": "stores",
+      "attributes": {
+        "name": "June the Label",
+        "merchant_id": 88020,
+        "permalink": null,
+        "slug": "june-the-label-86265",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45967/outbound?category_id=874&merchant_id=88020&name=June+the+Label&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/45967/outbound?category_id=874&merchant_id=88020&name=June+the+Label&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://www.junethelabel.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:56:24.953Z",
+        "updated_at": "2020-10-29T17:56:24.953Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDQvMDMvMDQvMzQvMTgvM2E1ZWVlNWUtNmU5Zi00MzA4LTk0NGMtMTEyOTVlNzE1ZDU5L3Byb2ZpbGVfcGljXzMzZjFjMDQwLTcuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=c499a5db62363770",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDQvMDMvMDQvMzQvMTcvYzU0YzI4ODktYTdkOC00MmI4LWFhYmEtMmIyNDQwNGFmOTNiL2xvZ29qdGwucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=1f547159561c9f08",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDQvMDMvMDQvMzQvMTcvYzU0YzI4ODktYTdkOC00MmI4LWFhYmEtMmIyNDQwNGFmOTNiL2xvZ29qdGwucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=206f61009c4d315f",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "Jt",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/45967/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/june-the-label-86265"
+      }
+    },
+    {
+      "id": "44663",
+      "type": "stores",
+      "attributes": {
+        "name": "sen skin",
+        "merchant_id": 98423,
+        "permalink": null,
+        "slug": "sen-skin-70842",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44663/outbound?category_id=874&merchant_id=98423&name=sen+skin&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44663/outbound?category_id=874&merchant_id=98423&name=sen+skin&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "http://senskin.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:53:57.803Z",
+        "updated_at": "2020-10-29T17:53:57.803Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMDEvMDQvNTgvMTAvMmFiNDIxYjYtMWVhZi00MWE4LTlkZTQtZWFiMzQzNmU4MmM0L3Byb2ZpbGUtcGljXzRkYWJiMjBkLTAuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=265767753e3d4450",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMDEvMDQvNTgvMDkvOThjYjBiYjEtOGM4ZS00MGFhLTgxMmMtYzI2N2M3OTdkZjI2L0xvZ28tMDEtYTYtMzdlZi05X2I3ZmI2NGY3LTgucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=6b762ed8997b74eb",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMDEvMDQvNTgvMDkvOThjYjBiYjEtOGM4ZS00MGFhLTgxMmMtYzI2N2M3OTdkZjI2L0xvZ28tMDEtYTYtMzdlZi05X2I3ZmI2NGY3LTgucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=740a409a8b99f707",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "ss",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/44663/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/sen-skin-70842"
+      }
+    },
+    {
+      "id": "44124",
+      "type": "stores",
+      "attributes": {
+        "name": "Quintrells Custom Teez",
+        "merchant_id": 103252,
+        "permalink": null,
+        "slug": "quintrells-custom-teez-45049",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44124/outbound?category_id=874&merchant_id=103252&name=Quintrells+Custom+Teez&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/44124/outbound?category_id=874&merchant_id=103252&name=Quintrells+Custom+Teez&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://quintrellscustoms.com/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:52:52.432Z",
+        "updated_at": "2020-10-29T17:52:52.432Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjkvMDEvNDIvMTEvMTI4ZGVlODItZGZiYy00OWZlLWE1NjgtOTExNDhlMWM5NmE1L3Byb2ZpbGUtcGljXzhiMzNhMGYxLWIuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=386e81381fc07562",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjkvMDEvNDIvMTAvMzY1ZmM2NzMtNjdiNi00ZDJiLWJiZDAtYWIyNWJjMjhmMzYxLzEwNDI5NTQyMS1mZTA4LWNfMDhjMDVhY2EtMi5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=448448e265f116c5",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjkvMDEvNDIvMTAvMzY1ZmM2NzMtNjdiNi00ZDJiLWJiZDAtYWIyNWJjMjhmMzYxLzEwNDI5NTQyMS1mZTA4LWNfMDhjMDVhY2EtMi5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=7c9017c6823bba97",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "QC",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/44124/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/quintrells-custom-teez-45049"
+      }
+    },
+    {
+      "id": "42745",
+      "type": "stores",
+      "attributes": {
+        "name": "Wins Kids Clothing",
+        "merchant_id": 400125169,
+        "permalink": null,
+        "slug": "wins-kids-clothing-63013",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42745/outbound?category_id=874&merchant_id=400125169&name=Wins+Kids+Clothing&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/42745/outbound?category_id=874&merchant_id=400125169&name=Wins+Kids+Clothing&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://wins-childrenswear.myshopify.com/?utm_source=clearpay&utm_medium=store-directory&utm_campaign=feature",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T16:31:37.088Z",
+        "updated_at": "2020-10-29T16:31:37.088Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjYvMTMvNTAvNTgvYmRhYTgzYjctZmI3Zi00ZDFjLTg5MjgtMGM5OTM2ZGJiYTgzL1dJTlNLSURTQ0xPVEhJTkdNQUlOSU1BR0UuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=c7c24ad75e927552",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjYvMTMvNTAvNTcvYjVlNzE1MDAtZDBmMi00YTc1LWE1Y2UtOWYyN2VlMjIxMWUwL1dJTlNLSURTTENMT1RISU5HTE9HTy5wbmciXSxbInAiLCJjb252ZXJ0IiwiLXJlc2l6ZSAnMjUweDI1MCcgLWdyYXZpdHkgQ2VudGVyIC1kZXB0aCAxNiAtc3RyaXAgK3JlcGFnZSJdXQ?sha=185c40af4bb096e6",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDYvMjYvMTMvNTAvNTcvYjVlNzE1MDAtZDBmMi00YTc1LWE1Y2UtOWYyN2VlMjIxMWUwL1dJTlNLSURTTENMT1RISU5HTE9HTy5wbmciXSxbInAiLCJuZWdhdGVfbG9nbyIsIjI1MHgyNTAiXV0?sha=789919eeb721d2a7",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "WK",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/42745/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/wins-kids-clothing-63013"
+      }
+    },
+    {
+      "id": "43250",
+      "type": "stores",
+      "attributes": {
+        "name": "108 warehouse",
+        "merchant_id": 111308,
+        "permalink": null,
+        "slug": "108-warehouse-39778",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43250/outbound?category_id=874&merchant_id=111308&name=108+warehouse&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/43250/outbound?category_id=874&merchant_id=111308&name=108+warehouse&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://108warehouse.com/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:50:43.922Z",
+        "updated_at": "2020-10-29T17:50:43.922Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTcvMDMvMTIvMDgvNGNkZGY2ODItNDFlOS00YmJiLTg2NTYtZDZkZmIyZDQzYTMyL3Byb2ZpbGUtcGljXzUzNjg3ZGViLTYuanBnIl0sWyJwIiwic3RvcmVfdGlsZSIsIjI1MHgyNTAiXV0?sha=607d7e2a6badea50",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTcvMDMvMTIvMDcvMDBjZWM3ZjctNGFjZC00YzFjLThkZjUtOTM1MDk0OGQzZGI5L2xvZ29hZnRlcnAtYTFlMi01X2E5ODYyYzc1LTkucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=c08a034ed05b1e21",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDkvMTcvMDMvMTIvMDcvMDBjZWM3ZjctNGFjZC00YzFjLThkZjUtOTM1MDk0OGQzZGI5L2xvZ29hZnRlcnAtYTFlMi01X2E5ODYyYzc1LTkucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=4bcae23929ec9442",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "wa",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": false,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/43250/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/108-warehouse-39778"
+      }
+    },
+    {
+      "id": "46793",
+      "type": "stores",
+      "attributes": {
+        "name": "Awesome Collectables",
+        "merchant_id": 80895,
+        "permalink": null,
+        "slug": "awesome-collectables-26864",
+        "tier_level": null,
+        "is_gift_card_store": false,
+        "locale": "en-CA",
+        "shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/46793/outbound?category_id=874&merchant_id=80895&name=Awesome+Collectables&publisher=AP&utm_campaign=feature&utm_medium=referral&utm_source=afterpay",
+        "cash_app_shop_url": "https://store-directory-api.afterpay.com/en-CA/stores/46793/outbound?category_id=874&merchant_id=80895&name=Awesome+Collectables&publisher=CASH_APP&utm_campaign=shopping&utm_medium=referral&utm_source=cashapp",
+        "merchant_outbound_url": "https://awesomecollectables.com.au/",
+        "has_locations": false,
+        "select_locations_only": false,
+        "in_store_only": false,
+        "created_at": "2020-10-29T17:58:03.013Z",
+        "updated_at": "2020-10-29T17:58:03.013Z",
+        "last_outbound_count": 0,
+        "published": true,
+        "published_by_cash": false,
+        "offer_text": null,
+        "offer_url": null,
+        "offer_id": null,
+        "offer_terms": null,
+        "offer_cta_title": null,
+        "offer_teaser": null,
+        "offer_starts_at": null,
+        "offer_ends_at": null,
+        "offer_in_store": null,
+        "offer_online": null,
+        "offer_active": null,
+        "offer_sponsored": null,
+        "offer_affiliate_network": null,
+        "offer_coupon_code": null,
+        "offer_min_purchase_threshold": null,
+        "text_blurb": "",
+        "description": "",
+        "main_image_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMjIvMDIvMjAvMTQvZmZhNzQzYWQtZjFiYS00ZDRlLTk5NmEtZTZhOGE3NDRkNGI4L2JsdWVpbWFnZS5qcGciXSxbInAiLCJzdG9yZV90aWxlIiwiMjUweDI1MCJdXQ?sha=a8bc0e14984ebf5f",
+        "logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMjIvMDIvMjAvMTMvMGRiMmY1NmMtOTEwOS00NmFmLTk3ODMtNTA3MjFlOGViMDY4L2xvZ29jb2xsZWMucG5nIl0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgJzI1MHgyNTAnIC1ncmF2aXR5IENlbnRlciAtZGVwdGggMTYgLXN0cmlwICtyZXBhZ2UiXV0?sha=b4101474c53eae8a",
+        "new_logo_url": "//site-assets.afterpay.com/media/W1siZiIsIjIwMjAvMDEvMjIvMDIvMjAvMTMvMGRiMmY1NmMtOTEwOS00NmFmLTk3ODMtNTA3MjFlOGViMDY4L2xvZ29jb2xsZWMucG5nIl0sWyJwIiwibmVnYXRlX2xvZ28iLCIyNTB4MjUwIl1d?sha=3c256d4ead336adb",
+        "featured_image_url": null,
+        "avatar_url": null,
+        "store_short_name": "AC",
+        "background_color": "#ffffff",
+        "banner_image_url": null,
+        "coming_soon": false,
+        "merchant_page": null,
+        "single_use_payment": false,
+        "highlight": null,
+        "service": false,
+        "crossborder": false
+      },
+      "relationships": {
+        "locations": {
+          "meta": {
+            "included": false
+          }
+        },
+        "categories": {
+          "meta": {
+            "included": false
+          }
+        },
+        "future_offers": {
+          "meta": {
+            "included": false
+          }
+        }
+      },
+      "links": {
+        "location_url": "https://www.afterpay.com/en-CA/stores/46793/locations",
+        "landing_page_url": "https://www.afterpay.com/en-CA/stores/awesome-collectables-26864"
+      }
+    }
+  ]
+}
